@@ -19,8 +19,8 @@ AB4
 Explanation
 num       Divisor       quotient       remainder
 718           12               59                 10(A)
-59             12                4                   11(B)
-4               12                0                   4(4)
+59            12                4                  11(B)
+4             12                0                  4(4)
 
 Sample Input
 n: 21
